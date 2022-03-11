@@ -151,6 +151,8 @@ widget:
 > - [Juan Pan: Create a Diverse and Active Open-Source Community Step by Step](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)
+> - [The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/) 
+> - [女性开发者为您解读数据库的未来机遇与挑战](https://mp.weixin.qq.com/s/Ez1higrKYMaPf-8tYGdGHA)
 
 > **Technical**
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
